@@ -1,21 +1,20 @@
-Desafio: Classificador do Nível do Herói
-Este projeto chama-se Jogo do Amigo Secreto. O jogo consiste em adicionar os nomes de amigos e então será gerado um sorteio aleatório que identificará quem será seu "amigo secreto". O projeto utiliza HTML, CSS e JavaScript.
+<h1 align="center"> Desafio: Classificador do Nível do Herói </h1>
+Este projeto chama-se Classificador do Nível do Herói e é um desafio do curso de Lógica de Programação para iniciantes da Plataforma de Cursos DIO.
+<p>O jogo consiste em adicionar um nome de herói que de acordo com sua quantidade de XP (pontos) receberá uma classificação em diversos níveis. O projeto utiliza HTML e JavaScript básicos.</p>
 
-Estrutura do Projeto
-index.html: contém a estrutura HTMLo.
-style.css: contém os estilos CSS.
-app.js: contém a lógica JavaScript da aplicação.
-assets: contém as imagens utilizadas.
-Como Usar
-1- Digite um nome no campo de entrada e clique em "Adicionar"
+<h3>Estrutura do Projeto:<h3/><br/>
+<li>index.html: contém a estrutura HTML.</li> 
+<li>style.css: sem estilos CSS.</li>
+<li>index.js: contém a lógica JavaScript da aplicação.</li>
+<li>assets: não contém imagens e ou outros utilitários.</li>
+<h3>Como Usar:<h3/><br/>
+1- Digite um nome no campo "Nome do Herói"<br/>
+2- Digite uma uma "quantidade de XP" no campo "Quantidade de XP"<br/>
+3- Clique no botão "Clique e saiba o nível do heróis".<br/>
+4- O campo vazio mostrará qual o nível do herói de acordo com a quantidade de XPs que ele possuir!<br/>
 
-2- Digite outros nomes (quantos for necessário) no campo de entrada e clique em "Adicionar"
+<h3>Dependências:<h3/> 
+Não possui dependências<br/>
+  <h3>Licença:<h3/>
 
-3- Clique em Sortear amigo.
-
-4- O nome sorteado será exibido na tela e anunciado em voz alta.
-
-Dependências
-responsiveVoice: Biblioteca que sintetiza a voz humana.
-Licença
 Este projeto pode ser usado e modificado livremente.
